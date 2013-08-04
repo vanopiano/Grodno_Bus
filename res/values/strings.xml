@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Расписание автобусов</string>
+    <string name="tab_help">О программе...</string>
+    <string name="tab_kor">Коробчицы</string>
+    <string name="tab_avt">Автовокзал</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_activity_bus_main">Расписание автобусов</string>
+    <string name="menu_exit">Выход</string>
+    <string name="oproge">De_Vano:    vanopiano@gmail.com</string>
+    <string name="settings_text">Настройки</string>
+    <string name="seetoback">Взгляд в прошлое</string>
+    <string name="seetofuture">Взгляд в будущее</string>
+
+</resources>

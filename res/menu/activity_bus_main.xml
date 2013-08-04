@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_settings" android:title="@string/menu_settings" android:orderInCategory="3" android:enabled="true"/>
+    <item android:id="@+id/menu_exit" android:title="@string/menu_exit" android:orderInCategory="5" android:enabled="true"></item>
+    <item android:id="@+id/menu_kor" android:orderInCategory="2" android:title="Удалить программму"></item>
+    <item android:id="@+id/menu_help" android:orderInCategory="4" android:title="о Программе..."></item>
+</menu>
